@@ -1,1 +1,17 @@
+body
+{width: 800px;
+  background-color: #e6ffff;
+  font-family: Tahoma;
+}
+h1, h2
+{font-family: Elephant;
+  color: #003333;
+}
 
+table
+{table-layout: fixed;
+  width: 700px:
+}
+th, td {
+  border-bottom: 1px solid #ddd;
+}
