@@ -8,10 +8,11 @@ h1, h2
   color: #003333;
 }
 
-table
-{table-layout: fixed;
-  width: 700px:
 }
-th, td {
+ul {
   border-bottom: 1px solid #ddd;
+}
+
+img
+{width 50%;
 }
